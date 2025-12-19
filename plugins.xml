@@ -15,14 +15,14 @@ Features:
 Requires a ForestLens account (forestlens.com) with configured CDSE credentials.
 
 Data Source: Copernicus Sentinel-2 satellite imagery via CDSE.]]></about>
-    <version>1.1.4</version>
+    <version>1.1.5</version>
     <qgis_minimum_version>3.28</qgis_minimum_version>
     <qgis_maximum_version>3.99</qgis_maximum_version>
     <homepage>https://forestlens.com/docs/qgis-plugin</homepage>
-    <file_name>ForestLens.1.1.4.zip</file_name>
+    <file_name>ForestLens.1.1.5.zip</file_name>
     <icon>https://forestlens.com/icon-192x192.png</icon>
     <author_name>ForestLens</author_name>
-    <download_url>https://raw.githubusercontent.com/sen4est/forestlens-qgis-plugin-repo/main/downloads/ForestLens.1.1.4.zip</download_url>
+    <download_url>https://raw.githubusercontent.com/sen4est/forestlens-qgis-plugin-repo/main/downloads/ForestLens.1.1.5.zip</download_url>
     <uploaded_by>forestlens</uploaded_by>
     <create_date>2024-12-19</create_date>
     <update_date>2024-12-19</update_date>
@@ -35,3 +35,4 @@ Data Source: Copernicus Sentinel-2 satellite imagery via CDSE.]]></about>
     <server>False</server>
   </pyqgis_plugin>
 </plugins>
+
