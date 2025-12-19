@@ -1,0 +1,78 @@
+ForestLens QGIS Plugin - Proprietary License
+
+Copyright (C) 2025 ForestLens. All rights reserved.
+
+TERMS AND CONDITIONS
+
+1. LICENSE GRANT
+   This software is proprietary and confidential. ForestLens grants you a
+   non-exclusive, non-transferable, revocable license to use the ForestLens
+   QGIS Plugin ("Software") solely in accordance with these terms.
+
+2. USAGE REQUIREMENTS
+   - A valid ForestLens subscription is required to use this Software
+   - You must maintain active CDSE (Copernicus Data Space Ecosystem) credentials
+   - Usage is subject to ForestLens Terms of Service (forestlens.com/terms)
+
+3. RESTRICTIONS
+   You may NOT:
+   - Redistribute, sell, lease, or sublicense the Software
+   - Reverse engineer, decompile, or disassemble the Software
+   - Remove or modify any copyright, trademark, or proprietary notices
+   - Use the Software for any unlawful purpose
+   - Share your login credentials with others
+
+4. INTELLECTUAL PROPERTY
+   All rights, title, and interest in and to the Software, including all
+   intellectual property rights, remain with ForestLens. This license does
+   not grant you any ownership rights to the Software.
+
+5. DATA AND PRIVACY
+   - The Software processes geospatial data via ForestLens servers
+   - Your analysis results are stored according to ForestLens Privacy Policy
+   - Satellite data is sourced from Copernicus Sentinel-2 (EU)
+
+6. THIRD-PARTY DATA
+   This Software uses Copernicus Sentinel-2 satellite data. When publishing
+   results, you must include the attribution:
+   "Contains modified Copernicus Sentinel data [Year]"
+
+7. WARRANTY DISCLAIMER
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. FORESTLENS DOES NOT
+   WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE OR UNINTERRUPTED.
+
+8. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL FORESTLENS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+   SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+   PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS;
+   OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+   WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+   OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
+   ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+9. TERMINATION
+   This license is effective until terminated. Your rights under this license
+   will terminate automatically if you fail to comply with any of its terms.
+   Upon termination, you must cease all use of the Software and destroy all
+   copies.
+
+10. UPDATES AND SUPPORT
+    - Software updates are provided at ForestLens's sole discretion
+    - Support is available via support@forestlens.com for active subscribers
+    - Updates may require acceptance of revised terms
+
+11. GOVERNING LAW
+    This license shall be governed by and construed in accordance with the
+    laws of the jurisdiction where ForestLens is registered, without regard
+    to its conflict of law provisions.
+
+12. CONTACT
+    For licensing inquiries, support, or questions:
+    - Website: https://forestlens.com
+    - Email: info@forestlens.com
+    - Documentation: https://forestlens.com/docs/qgis-plugin
+
+By installing or using this Software, you acknowledge that you have read,
+understood, and agree to be bound by these terms and conditions.
